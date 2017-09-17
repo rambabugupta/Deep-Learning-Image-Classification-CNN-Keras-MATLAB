@@ -1,7 +1,7 @@
 # Deep-Learning-Image-Classification-Keras-Matlab
 
 
-To train model on RPCG16 data for the experiment:
+To train model on RPCG16 data for the experiment: (Inspired from blog of François Chollet who used keras for classification of two class problem using CNN)
 
 Rock-Paper-Scissors images colleceted by my self with phone camera and robot camera.
 
