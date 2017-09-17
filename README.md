@@ -1,4 +1,4 @@
-# Deep-Learning-Image-Classification-Keras-Matlab
+# Deep-Learning-Image-Classification-Keras-MATLAB-CNN
 
 
 To train model on RPCG16 data for the experiment: (Inspired from blog of François Chollet who used keras for classification of two class problem using CNN)
